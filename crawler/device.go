@@ -9,7 +9,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/pilebones/go-udev/netlink"
+	"github.com/stolowski/go-udev/netlink"
 )
 
 const (
